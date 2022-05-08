@@ -17,9 +17,9 @@ However, this project were created using:
 
  Due to all respect, if you have any concern, you may visit our github and linkedin
 
-[![Github](https://img.shields.io/badge/Lissura-10000?logo=github&logoColor=blue)](https://github.com/lissura)
-[![Github](https://img.shields.io/badge/Sonny-10000?logo=github&logoColor=blue)](https://github.com/sonnyrd)
-[![Github](https://img.shields.io/badge/Izzuddin-10000?logo=github&logoColor=blue)](https://github.com/izzuddinrobbani)
+[![Github](https://img.shields.io/badge/Lissura-000000?logo=github&logoColor=blue)](https://github.com/lissura)
+[![Github](https://img.shields.io/badge/Sonny-000000?logo=github&logoColor=green)](https://github.com/sonnyrd)
+[![Github](https://img.shields.io/badge/Izzuddin-000000?logo=github&logoColor=red)](https://github.com/izzuddinrobbani)
 
 ## Streamlit (tbc)
 Click the button below to use my streamlit
