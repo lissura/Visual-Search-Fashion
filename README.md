@@ -1,3 +1,6 @@
+![Logo](https://user-images.githubusercontent.com/99531715/167302951-a5af6006-1d7a-4f78-9790-dbed906df286.jpg)
+
+
 # Visual-Search-Fashion
 _Your personal search for fashion catalogue using Object Detection and Recommend similar item with cosine similarity_
 
